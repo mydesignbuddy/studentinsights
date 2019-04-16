@@ -242,242 +242,242 @@
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Aaron Gladstone",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "AHMAD AHMAD",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Arslan Jumayev",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Brandon Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "cristal gomez",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Dara Anya",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Darek Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Diane Sabra",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Emily Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Emmanuel Wada",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Indra Nallappan",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "jacob boyett",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "James palakkal",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Jonathan Mooney",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Joshua Schaefer",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Liane Suarez Curbelo",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": true,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Mark Gardner",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": true,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Pedro Oliveira de Magalhaes",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Peter Winston",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Preston Edwards",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Sabrina Maeder",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Samantha Garcia",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Samih Mabsout",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "SANG GOO LEE",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Sean Bullock",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Shashank Ranganathan",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Simon Shih",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Theresa Jensen",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "Tonye Jack-Carlton",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "An ES6travaganza",
     "studentName": "victoria puente",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Apex Presents: Best Practices: Working with Recruiters - Encouraged, Not required",
@@ -5522,242 +5522,242 @@
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Aaron Gladstone",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "AHMAD AHMAD",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Arslan Jumayev",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Brandon Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "cristal gomez",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Dara Anya",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Darek Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Diane Sabra",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Emily Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Emmanuel Wada",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Indra Nallappan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "jacob boyett",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "James palakkal",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Jonathan Mooney",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Joshua Schaefer",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Liane Suarez Curbelo",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Mark Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Pedro Oliveira de Magalhaes",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Peter Winston",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Preston Edwards",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Sabrina Maeder",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Samantha Garcia",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Samih Mabsout",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "SANG GOO LEE",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Sean Bullock",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Shashank Ranganathan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Simon Shih",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Theresa Jensen",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "Tonye Jack-Carlton",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services - First Coaching Session Pre-Graduation",
     "studentName": "victoria puente",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Career Services Meet & Greet",
@@ -6722,242 +6722,242 @@
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Aaron Gladstone",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "AHMAD AHMAD",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Arslan Jumayev",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Brandon Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "cristal gomez",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Dara Anya",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Darek Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Diane Sabra",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Emily Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Emmanuel Wada",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Indra Nallappan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "jacob boyett",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "James palakkal",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Jonathan Mooney",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Joshua Schaefer",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Liane Suarez Curbelo",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Mark Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Pedro Oliveira de Magalhaes",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Peter Winston",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Preston Edwards",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Sabrina Maeder",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Samantha Garcia",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Samih Mabsout",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "SANG GOO LEE",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Sean Bullock",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Shashank Ranganathan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Simon Shih",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Theresa Jensen",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "Tonye Jack-Carlton",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Cracking The Coding Interview Series: Big O Notation [ Web Dev]",
     "studentName": "victoria puente",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Deloitte Webinar - Optional",
@@ -14402,10 +14402,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Aaron Gladstone",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14418,10 +14418,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "AHMAD AHMAD",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14442,10 +14442,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Arslan Jumayev",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14458,10 +14458,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Brandon Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14474,10 +14474,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "cristal gomez",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14490,18 +14490,18 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Dara Anya",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Darek Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14514,10 +14514,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Diane Sabra",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14538,18 +14538,18 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Emily Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Emmanuel Wada",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14570,10 +14570,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Indra Nallappan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14586,10 +14586,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "jacob boyett",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14602,18 +14602,18 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "James palakkal",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Jonathan Mooney",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14634,10 +14634,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Joshua Schaefer",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14650,10 +14650,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Liane Suarez Curbelo",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14666,10 +14666,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Mark Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14682,18 +14682,18 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Pedro Oliveira de Magalhaes",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Peter Winston",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14706,10 +14706,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Preston Edwards",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14722,10 +14722,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Sabrina Maeder",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14746,10 +14746,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Samantha Garcia",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14762,10 +14762,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Samih Mabsout",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14778,18 +14778,18 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "SANG GOO LEE",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Sean Bullock",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14802,10 +14802,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Shashank Ranganathan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14826,18 +14826,18 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Simon Shih",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Theresa Jensen",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14850,10 +14850,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "Tonye Jack-Carlton",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
@@ -14874,10 +14874,10 @@
   {
     "sessionName": "Employer Competitive Series: What Employers Want - Encouraged, Not required",
     "studentName": "victoria puente",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Express-Oh",
@@ -19442,242 +19442,242 @@
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Aaron Gladstone",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "AHMAD AHMAD",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Arslan Jumayev",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Brandon Gardner",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "cristal gomez",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Dara Anya",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Darek Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Diane Sabra",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Emily Radke",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Emmanuel Wada",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Indra Nallappan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "jacob boyett",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "James palakkal",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Jonathan Mooney",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Joshua Schaefer",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Liane Suarez Curbelo",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Mark Gardner",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Pedro Oliveira de Magalhaes",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Peter Winston",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": false,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Preston Edwards",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Sabrina Maeder",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Samantha Garcia",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Samih Mabsout",
-    "pending": true,
-    "present": null,
-    "remote": null,
+    "pending": false,
+    "present": true,
+    "remote": true,
     "excused": null
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "SANG GOO LEE",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Sean Bullock",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Shashank Ranganathan",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Simon Shih",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Theresa Jensen",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "Tonye Jack-Carlton",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "Intro to React, Components and JSX",
     "studentName": "victoria puente",
-    "pending": true,
-    "present": null,
+    "pending": false,
+    "present": false,
     "remote": null,
-    "excused": null
+    "excused": false
   },
   {
     "sessionName": "JavaScript Jitters",

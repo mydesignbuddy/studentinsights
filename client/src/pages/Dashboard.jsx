@@ -2,9 +2,12 @@ import React, { useGlobal } from "reactn";
 import Grid from "@material-ui/core/Grid";
 import { HorizontalBar } from "react-chartjs-2";
 import { gradeToValue, gradeToValueArr, averageMeanGrade } from "../utils";
-// import attendanceService from "../services/attendanceService";
+import { studentAttendance } from "../services/attendanceService";
 import { gradesByStudents } from "../services/gradesService";
 // import { allStudents } from "../services/studentsService";
+
+const absentDataset = studentAttendance().map(a => [a.abscentCount]);
+const remoteDataset = studentAttendance().map(a => [a.remoteCount]);
 
 const incompleteAssignments = gradesByStudents().map(s => {
   let count = 0;
@@ -39,10 +42,22 @@ const barChartDataSet = {
       data: gradeAvgs
     },
     {
+      label: "Remote",
+      borderWidth: 1,
+      backgroundColor: "#3f78b5",
+      data: remoteDataset
+    },
+    {
       label: "Incompletes",
       borderWidth: 1,
       backgroundColor: "#FF0000",
       data: incompleteAssignments
+    },
+    {
+      label: "Absent",
+      borderWidth: 1,
+      backgroundColor: "#f7af07",
+      data: absentDataset
     }
   ],
   labels: studentNames
@@ -77,10 +92,7 @@ export default () => {
         />
       </Grid>
       <Grid item xs={12}>
-        <pre>{JSON.stringify(gradesByStudents(), null, 2)}</pre>
-      </Grid>
-      <Grid item xs={12}>
-        Dashboad here {authToken}
+        <pre>{JSON.stringify([], null, 2)}</pre>
       </Grid>
     </Grid>
   );
