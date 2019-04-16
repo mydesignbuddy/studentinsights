@@ -1,21 +1,28 @@
-import React, { Component } from "react";
-import logo from "./logo.svg";
+import React from "reactn";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
-}
+import Login from "./components/Login";
+import Dashboard from "./pages/Dashboard";
+
+import AppBar from "./components/AppBar";
+
+const App = () => (
+  <Router>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+
+    <AppBar>
+      <Route path="/" exact component={Login} />
+      <Route path="/dashboard/" component={Dashboard} />
+    </AppBar>
+  </Router>
+);
 
 export default App;

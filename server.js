@@ -13,6 +13,11 @@ if (process.env.NODE_ENV === "production") {
 
 // Define API routes here
 
+app.get("/api/sessions", (req, res) => {
+  const data = require("./client/src/testData/sessions.json");
+  res.json(data);
+});
+
 // Send every other request to the React app
 // Define any API routes before this runs
 app.get("*", (req, res) => {

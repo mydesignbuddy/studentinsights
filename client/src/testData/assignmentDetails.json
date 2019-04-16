@@ -1,0 +1,665 @@
+{
+  "assignment": {
+    "id": 39026,
+    "courseId": 730,
+    "contextId": 1,
+    "assignmentDate": "2018-11-13T06:00:00Z",
+    "dueDate": "2018-11-22T05:59:59Z",
+    "bufferDays": 0,
+    "effectiveDueDate": "2018-11-22T05:59:59Z",
+    "title": "1: Building a Wireframe / That Portfolio Though",
+    "required": true,
+    "requiredForGraduation": false,
+    "assignmentHeader": {
+      "id": 39029,
+      "assignmentId": 39026,
+      "header": "1: Building a Wireframe / That Portfolio Though"
+    },
+    "assignmentContent": null,
+    "assignmentHours": null,
+    "context": {
+      "id": 1,
+      "contextCode": "academic",
+      "name": "Academic"
+    },
+    "academicAssignment": {
+      "id": 39026,
+      "prework": false
+    },
+    "careerAssignment": null,
+    "submittedStudentCount": 18,
+    "gradedStudentCount": 0
+  },
+  "students": [
+    {
+      "student": {
+        "id": 23888,
+        "userName": "aarongladstone456@gmail.com",
+        "firstName": "Aaron",
+        "lastName": "Gladstone",
+        "email": "aarongladstone456@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 23888,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237667,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 116569,
+        "date": "2018-11-22T06:06:39.017974Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232579,
+        "submissionId": 237667,
+        "date": "2018-11-28T00:02:33.418881Z",
+        "grade": "B"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 21854,
+        "userName": "daraanya@gmail.com",
+        "firstName": "Dara",
+        "lastName": "Anya",
+        "email": "daraanya@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 21854,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237354,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 51521,
+        "date": "2018-11-21T19:37:44.524077Z",
+        "notes": "I had fun with this assignment. Due to browser and window discrepancies, my portfolio is best viewed in Fullscreen mode on Google Chrome. "
+      },
+      "grade": {
+        "id": 232592,
+        "submissionId": 237354,
+        "date": "2018-11-28T00:12:57.840695Z",
+        "grade": "A"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 22388,
+        "userName": "dwsabra@gmail.com",
+        "firstName": "Diane",
+        "lastName": "Sabra",
+        "email": "dwsabra@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 22388,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237070,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 52094,
+        "date": "2018-11-21T15:27:34.838354Z",
+        "notes": "It was good. The basics were well taught. Google was very helpful as well. "
+      },
+      "grade": {
+        "id": 232598,
+        "submissionId": 237070,
+        "date": "2018-11-28T00:15:10.416775Z",
+        "grade": "A"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 23645,
+        "userName": "wadaemmanuel@gmail.com",
+        "firstName": "Emmanuel",
+        "lastName": "Wada",
+        "email": "wadaemmanuel@gmail.com",
+        "githubUserName": "wadaemmanuel",
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 23645,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237863,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 113579,
+        "date": "2018-11-23T22:52:52.280359Z",
+        "notes": "Hi, I uploaded my assignment to the repo but i forgot to send the link. "
+      },
+      "grade": {
+        "id": 232603,
+        "submissionId": 237863,
+        "date": "2018-11-28T00:17:22.655486Z",
+        "grade": "B-"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 25326,
+        "userName": "back2indra@gmail.com",
+        "firstName": "Indra",
+        "lastName": "Nallappan",
+        "email": "back2indra@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 25326,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237591,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 127231,
+        "date": "2018-11-22T03:34:48.095611Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232608,
+        "submissionId": 237591,
+        "date": "2018-11-28T00:19:04.535044Z",
+        "grade": "B"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 23612,
+        "userName": "jboyett1214@gmail.com",
+        "firstName": "jacob",
+        "lastName": "boyett",
+        "email": "jboyett1214@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 23612,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237628,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 112895,
+        "date": "2018-11-22T04:55:17.058588Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232611,
+        "submissionId": 237628,
+        "date": "2018-11-28T00:21:37.31503Z",
+        "grade": "C-"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 21683,
+        "userName": "jvpalakkal@gmail.com",
+        "firstName": "James",
+        "lastName": "palakkal",
+        "email": "jvpalakkal@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 21683,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": "/broker/studentAvatar?accountId=21683"
+      },
+      "submission": {
+        "id": 237619,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 51342,
+        "date": "2018-11-22T04:36:41.553525Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232619,
+        "submissionId": 237619,
+        "date": "2018-11-28T00:25:58.272258Z",
+        "grade": "C+"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 24038,
+        "userName": "moonejon@gmail.com",
+        "firstName": "Jonathan",
+        "lastName": "Mooney",
+        "email": "moonejon@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 24038,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237390,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 116979,
+        "date": "2018-11-21T21:10:19.221164Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232625,
+        "submissionId": 237390,
+        "date": "2018-11-28T00:28:02.978777Z",
+        "grade": "A"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 23473,
+        "userName": "lianesuarez88@gmail.com",
+        "firstName": "Liane",
+        "lastName": "Suarez Curbelo",
+        "email": "lianesuarez88@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 23473,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237646,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 112593,
+        "date": "2018-11-22T05:18:06.353407Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232675,
+        "submissionId": 237646,
+        "date": "2018-11-28T01:00:41.977909Z",
+        "grade": "A"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 22479,
+        "userName": "mjg@phoenixtrap.com",
+        "firstName": "Mark",
+        "lastName": "Gardner",
+        "email": "mjg@phoenixtrap.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 22479,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237267,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 52192,
+        "date": "2018-11-21T15:14:25.948973Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 232679,
+        "submissionId": 237267,
+        "date": "2018-11-28T01:03:45.43113Z",
+        "grade": "A"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 22447,
+        "userName": "pedro.demagalhaes@icloud.com",
+        "firstName": "Pedro",
+        "lastName": "Oliveira de Magalhaes",
+        "email": "pedro.demagalhaes@icloud.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 22447,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237050,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 52160,
+        "date": "2018-11-21T02:40:41.266329Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 236377,
+        "submissionId": 237050,
+        "date": "2018-12-05T01:54:15.318223Z",
+        "grade": "A+"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 23081,
+        "userName": "lwpeter44@gmail.com",
+        "firstName": "Peter",
+        "lastName": "Winston",
+        "email": "lwpeter44@gmail.com",
+        "githubUserName": "Prince0fTime",
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 23081,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237549,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 107188,
+        "date": "2018-11-22T02:21:38.844876Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 236302,
+        "submissionId": 237549,
+        "date": "2018-12-05T00:49:44.446374Z",
+        "grade": "A+"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 23220,
+        "userName": "samgarcia592@gmail.com",
+        "firstName": "Samantha",
+        "lastName": "Garcia",
+        "email": "samgarcia592@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 23220,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237335,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 108901,
+        "date": "2018-11-21T18:10:13.13771Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 236283,
+        "submissionId": 237335,
+        "date": "2018-12-05T00:38:05.035063Z",
+        "grade": "C+"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 25841,
+        "userName": "smabsout@gmail.com",
+        "firstName": "Samih",
+        "lastName": "Mabsout",
+        "email": "smabsout@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 25841,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237603,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 130178,
+        "date": "2018-11-22T04:02:26.545078Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 236461,
+        "submissionId": 237603,
+        "date": "2018-12-05T02:36:07.531072Z",
+        "grade": "A"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 24185,
+        "userName": "shankranganathan@gmail.com",
+        "firstName": "Shashank",
+        "lastName": "Ranganathan",
+        "email": "shankranganathan@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 24185,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": null
+      },
+      "submission": {
+        "id": 237376,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 117748,
+        "date": "2018-11-21T20:36:57.777379Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 236334,
+        "submissionId": 237376,
+        "date": "2018-12-05T01:12:13.907923Z",
+        "grade": "A+"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 22550,
+        "userName": "simonshih@hotmail.com",
+        "firstName": "Simon",
+        "lastName": "Shih",
+        "email": "simonshih@hotmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 22550,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": "/broker/studentAvatar?accountId=22550"
+      },
+      "submission": {
+        "id": 237333,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 52265,
+        "date": "2018-11-21T18:07:42.890365Z",
+        "notes": "The first couple days were frustrating and I had to start over a couple times, but once I understood how to keep the code more organized, it made it easier. Buddy and the TAs were very helpful with a few things I was having trouble with and taught me some invaluable tips and tricks"
+      },
+      "grade": {
+        "id": 236297,
+        "submissionId": 237333,
+        "date": "2018-12-05T00:46:59.931216Z",
+        "grade": "A+"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 19979,
+        "userName": "tresaj1215@yahoo.com",
+        "firstName": "Theresa",
+        "lastName": "Jensen",
+        "email": "tresaj1215@yahoo.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwj&oid=00D410000006puJ&lastMod=1483409837000",
+        "passwordResetRequired": false,
+        "active": false,
+        "bcsExtends": {
+          "id": 19979,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": "/broker/studentAvatar?accountId=19979"
+      },
+      "submission": {
+        "id": 237600,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 106471,
+        "date": "2018-11-22T03:56:43.928878Z",
+        "notes": ""
+      },
+      "grade": {
+        "id": 245650,
+        "submissionId": 237600,
+        "date": "2018-12-28T16:16:44.63529Z",
+        "grade": "I"
+      },
+      "careerFeedback": null
+    },
+    {
+      "student": {
+        "id": 21823,
+        "userName": "puentevic33@gmail.com",
+        "firstName": "victoria",
+        "lastName": "puente",
+        "email": "puentevic33@gmail.com",
+        "githubUserName": null,
+        "phoneNumber": null,
+        "avatarUrl": null,
+        "mailingLogoUrl": "https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001Zbwk&oid=00D410000006puJ&lastMod=1491402231000",
+        "passwordResetRequired": false,
+        "active": true,
+        "bcsExtends": {
+          "id": 21823,
+          "isAdmin": false,
+          "jobTrackActive": true
+        },
+        "nexusAvatarUrl": "/broker/studentAvatar?accountId=21823"
+      },
+      "submission": {
+        "id": 242685,
+        "assignmentId": 39026,
+        "studentEnrollmentId": 51492,
+        "date": "2018-12-02T15:42:18.357466Z",
+        "notes": "sorry I did not realize submission was through bcs linked from github"
+      },
+      "grade": {
+        "id": 236420,
+        "submissionId": 242685,
+        "date": "2018-12-05T02:20:12.8441Z",
+        "grade": "B"
+      },
+      "careerFeedback": null
+    }
+  ]
+}

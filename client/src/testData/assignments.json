@@ -1,0 +1,970 @@
+{
+  "currentWeekAssignments": [
+    {
+      "id": 39033,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-03-28T05:00:00Z",
+      "dueDate": "2019-04-08T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-04-08T04:59:59Z",
+      "title": "Updated Portfolio Page #2",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39036,
+        "assignmentId": 39033,
+        "header": "Updated Portfolio Page #2"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "academicAssignment": {
+        "id": 39033,
+        "prework": false
+      },
+      "careerAssignment": null,
+      "submittedStudentCount": 10,
+      "gradedStudentCount": 0
+    }
+  ],
+  "courseStudentsCount": 18,
+  "calendarAssignments": [
+    {
+      "id": 39025,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-08-30T05:00:00Z",
+      "dueDate": "2018-11-14T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-11-14T05:59:59Z",
+      "title": "0: Web Development Prework",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39028,
+        "assignmentId": 39025,
+        "header": "0: Web Development Prework"
+      },
+      "assignmentContent": {
+        "id": 34389,
+        "assignmentId": 39025,
+        "content": "https://www.gitbook.com/read/book/the-coding-bootcamp/pre-work-book?key=CodingRocksAJ16"
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "prework",
+        "name": "Pre-Work"
+      }
+    },
+    {
+      "id": 39026,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-11-13T06:00:00Z",
+      "dueDate": "2018-11-22T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-11-22T05:59:59Z",
+      "title": "1: Building a Wireframe / That Portfolio Though",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39029,
+        "assignmentId": 39026,
+        "header": "1: Building a Wireframe / That Portfolio Though"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39015,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-11-20T06:00:00Z",
+      "dueDate": "2018-12-03T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-03T05:59:59Z",
+      "title": "2: Responsiveness Assignment",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39018,
+        "assignmentId": 39015,
+        "header": "2: Responsiveness Assignment"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39043,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2018-11-21T06:00:00Z",
+      "dueDate": "2018-12-06T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-06T05:59:59Z",
+      "title": "Milestone 1: Employer Competitive",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39046,
+        "assignmentId": 39043,
+        "header": "This short lesson will provide you a chance to understand the career services course and its goals. Our goal is to help you become Employer Competitive so that you are more likely to be successful in the job search process."
+      },
+      "assignmentContent": {
+        "id": 34396,
+        "assignmentId": 39043,
+        "content": "To meet this Milestone! please complete the following tasks:\r\n\r\n1. Review the Career Services Coding Bootcamp Curriculum to understand the structure and flow of this course: http://bit.ly/2GGXdq3 \r\n\r\n2. Read the Employer Ready vs. Employer Competitive framework: http://bit.ly/2EuOjLu \r\n  a) You may not understand everything in this framework yet - but you will by the end of this course.  \r\n  b) We suggest that you bookmark this framework for easy future reference, or even print it out and tape it on your wall. The rest of this course will make reference to this framework.\r\n\r\n3. If you have questions on either of these documents, ask your Career Director via email."
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39019,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-12-01T06:00:00Z",
+      "dueDate": "2018-12-10T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-10T05:59:59Z",
+      "title": "3: JavaScript Assignment",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39022,
+        "assignmentId": 39019,
+        "header": "3: JavaScript Assignment"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39038,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2018-11-28T06:00:00Z",
+      "dueDate": "2018-12-13T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-13T05:59:59Z",
+      "title": "Milestone 2: Create Professional Materials I",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39041,
+        "assignmentId": 39038,
+        "header": "To meet this milestone, you will develop a short professional brand statement that you can use for a variety of purposes (e.g. your LinkedIn profile, resume, and other online profiles). This brand statement will then serve as the starting point for the development of your short elevator pitch (a brief and compelling verbal introduction to share when you are meeting other professionals in technology), which is essential for effective networking."
+      },
+      "assignmentContent": {
+        "id": 34391,
+        "assignmentId": 39038,
+        "content": "To meet this milestone, please complete the following tasks:\r\n\r\n1. Develop a short brand statement and submit it here, to Boot Camp Spot, as a google doc link. Set sharing settings to ANYONE WITH THE LINK CAN EDIT. (Use this How-to document http://bit.ly/2DN4eTL to assist you if you need direction in setting the correct permissions.) The following resources may help you complete this task.\r\n     a) Professional Brand Statement Criteria - If you already have a brand statement and are just refining it, use this guide to assess your brand statement: http://bit.ly/2s2xRjh \r\n     b) Step by Step Guide to Creating a Brand Statement - If you do not have a statement or are starting from scratch, you may want to use this guide. You DO NOT need to submit this guide -- it is simply here to provide help: http://bit.ly/2E069Jh \r\n     c) Examples of Professional Brand Statements - Whether you are new to brand statements or a veteran at marketing yourself, look through our collection of sample brand statements for inspiration: http://bit.ly/2saT5vo \r\n     d) Frequently Asked Questions about Brand Statements - If you have questions about the brand statement, look at our FAQ document to help you: http://bit.ly/2Egpp4C  \r\n2. Prepare and practice your elevator pitch. You do NOT need to submit this, but you will start meeting people and it will be helpful to have a pitch ready to go. If you are new to developing and delivering an elevator pitch, use the following resource.\r\n     a) Elevator Pitch Overview and Tips - This document provides you with an overview of what we mean by elevator pitches and provides some tips on how to create one: http://bit.ly/2EBCrr7 \r\n\r\nAs a reminder, this milestone requires a submission of a link to your Professional Brand Statement ONLY (as a google doc) into Boot Camp Spot below. Please set the sharing settings of the google doc to ANYONE WITH THE LINK CAN EDIT access - if not, your Profile Coach cannot provide feedback or make comments. Be sure to check the doc again in 2 weeks to view feedback from your Profile Coach.\r\n\r\nIf would like to use any of the tools provided above, simply Make a Copy and save to your Google Drive."
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39018,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-12-08T06:00:00Z",
+      "dueDate": "2018-12-17T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-17T05:59:59Z",
+      "title": "4: jQuery Assignment",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39021,
+        "assignmentId": 39018,
+        "header": "4: jQuery Assignment"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39021,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-12-15T06:00:00Z",
+      "dueDate": "2018-12-24T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-24T05:59:59Z",
+      "title": "5: JavaScript Assignment 2",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39024,
+        "assignmentId": 39021,
+        "header": "5: JavaScript Assignment 2"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39039,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2018-12-12T06:00:00Z",
+      "dueDate": "2018-12-27T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2018-12-27T05:59:59Z",
+      "title": "Milestone 3: Build your Visibility",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39042,
+        "assignmentId": 39039,
+        "header": "By the end of this milestone, you will have:\r\n1) An understanding of the specific requirements related to your future job in tech\r\n2) A plan to create your online visibility so that you begin to grow your professional  network\r\n3) An understanding of how to use networking to learn more about your industry, and to let people in your industry learn more about you\r\n4) Started to attend networking events, to hold informational interviews, and to connect with new individuals"
+      },
+      "assignmentContent": {
+        "id": 34392,
+        "assignmentId": 39039,
+        "content": "To meet this milestone, please complete the following tasks:\r\n\r\n1. Review the Potential Web Development Jobs List and think about which ones interest you. http://bit.ly/2nK0Kva  \r\n\r\n2. Make a copy of the Job Requirements Checklist and fill it out: http://bit.ly/2BQNjyu  \r\n\r\n3. Make a copy of the Build Your Visibility Plan and fill it out: http://bit.ly/2GK5JVt \r\n     a) Everything listed here will help you become Employer Competitive.\r\n     b) Leverage this plan by executing the listed action items on a weekly basis.\r\n\r\n4. Review the Web Development Regional Guide in detail. Visit the links listed and see how you can make yourself more visible: https://docs.google.com/document/d/1mZjcQ9JFd5sWE8LgGWDSN-NHAE_F0i2SMEGeMTv6TT8/edit?usp=sharing\r\n\r\n5. Review the Guide to Networking.  This guide will help you think about who is in your network already and how to leverage that list, your LinkedIn contacts, and people you meet at networking events to hold successful informational interviews. http://bit.ly/2EaGlpU\r\n\r\n6. Choose at least three networking actions that you are going to take in the next two weeks.  \r\n     a) Templates & Links to Resources provides email and LinkedIn templates and other resources that might be useful: http://bit.ly/2BKL0kV"
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39020,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2018-12-22T06:00:00Z",
+      "dueDate": "2019-01-14T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-01-14T05:59:59Z",
+      "title": "6: GifTastic",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39023,
+        "assignmentId": 39020,
+        "header": "6: GifTastic"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39023,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-01-12T06:00:00Z",
+      "dueDate": "2019-01-21T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-01-21T05:59:59Z",
+      "title": "7: Train Scheduler (Basic - Recommended) / Rock Paper Scissors (Challenge)",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39026,
+        "assignmentId": 39023,
+        "header": "7: Train Scheduler (Basic - Recommended) / Rock Paper Scissors (Challenge)"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39022,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-01-19T06:00:00Z",
+      "dueDate": "2019-02-03T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-02-03T05:59:59Z",
+      "title": "Project 1",
+      "required": true,
+      "requiredForGraduation": true,
+      "assignmentHeader": {
+        "id": 39025,
+        "assignmentId": 39022,
+        "header": "Project 1"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39040,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2019-01-23T06:00:00Z",
+      "dueDate": "2019-02-07T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-02-07T05:59:59Z",
+      "title": "Milestone 4: Create Professional Materials II",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39043,
+        "assignmentId": 39040,
+        "header": "By the end of this milestone, you will have:\r\n1) An understanding of what makes an Employer Competitive Resume\r\n2) Drafted your resume and submitted it to your Profile Coach"
+      },
+      "assignmentContent": {
+        "id": 34393,
+        "assignmentId": 39040,
+        "content": "To meet this milestone, please complete the following task:\r\n\r\n1. Develop a resume and submit it here, to Boot Camp Spot, as a google doc link. Set sharing settings to ANYONE WITH THE LINK CAN EDIT access. (Use this How-to document http://bit.ly/2DN4eTL to assist you if you need direction in setting the correct permissions.) The following resources may help you complete this task.\r\n     a) Resume Criteria will help you understand what makes an Employer Competitive Resume. http://bit.ly/2op8S5e\r\n     b) If you are new to developing a resume, use the Step By Step Guide to Creating Your Resume. http://bit.ly/2sOuGvI\r\n     c) Resume Templates- Whether you are new to building a resume or a veteran at marketing yourself, look through these templates and examples for inspiration. Make a copy of this document if you want to use one one of the templates. http://bit.ly/2sTEMvz\r\n     d) Frequently Asked Questions about Resumes - If you have questions about the brand statement, look at our FAQ document to help you. http://bit.ly/2ERqAVu\r\n\r\nIf you would like to use any of the tools provided above, simply Make a Copy and save to your Google Drive. \r\n\r\nIf you have questions on either of these documents, ask your Profile Coach via email."
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39024,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-01-29T06:00:00Z",
+      "dueDate": "2019-02-09T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-02-09T05:59:59Z",
+      "title": "Updated Portfolio Page",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39027,
+        "assignmentId": 39024,
+        "header": "Updated Portfolio Page"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39028,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-02-05T06:00:00Z",
+      "dueDate": "2019-02-14T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-02-14T05:59:59Z",
+      "title": "8: LIRI Bot",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39031,
+        "assignmentId": 39028,
+        "header": "8: LIRI Bot"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39027,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-02-12T06:00:00Z",
+      "dueDate": "2019-02-23T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-02-23T05:59:59Z",
+      "title": "9: Advanced JavaScript Assignment: Constructor Word Guess",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39030,
+        "assignmentId": 39027,
+        "header": "9: Advanced JavaScript Assignment: Constructor Word Guess"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39030,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-02-21T06:00:00Z",
+      "dueDate": "2019-03-02T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-03-02T05:59:59Z",
+      "title": "10: Node.js & MySQL",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39033,
+        "assignmentId": 39030,
+        "header": "10: Node.js & MySQL"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39029,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-02-28T06:00:00Z",
+      "dueDate": "2019-03-09T05:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-03-09T05:59:59Z",
+      "title": "11: Friend Finder - Node and Express Servers",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39032,
+        "assignmentId": 39029,
+        "header": "11: Friend Finder - Node and Express Servers"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39041,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2019-02-27T06:00:00Z",
+      "dueDate": "2019-03-14T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-03-14T04:59:59Z",
+      "title": "Milestone 5: Polish Your Portfolio and Github",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39044,
+        "assignmentId": 39041,
+        "header": "By the end of this milestone, you will have:\r\n1) Updated your LinkedIn profile to meet Employer Competitive standards\r\n2) An understanding of what makes an Employer Competitive Portfolio and Github\r\n3) Submitted links to your Portfolio, Github, and LinkedIn profile to your Profile Coach for feedback"
+      },
+      "assignmentContent": {
+        "id": 34394,
+        "assignmentId": 39041,
+        "content": "To meet this milestone, please complete the following tasks:\r\n\r\nCLICK THE FOLLOWING LINK FOR MILESTONE RESOURCES http://bit.ly/2PNEii1\r\n\r\n1. Please submit your links for your LinkedIn, Portfolio, and Github. \r\n\r\nTo do submit your links, please click “submit” in the upper right corner, add the URL for the link you wish to submit, and select that link’s title from the dropdown. Select “Add URL” to add it to the submission. Do this for each of the links you are submitting. Once finished, please click “Submit Milestone.” \r\n\r\n2. You will receive feedback from your PC within two weeks of submitting this Milestone. Please use your PC’s feedback to make updates to your milestones before submitting your revised links at Milestone 7.\r\n\r\nIf would like to use any of the tools provided above, simply Make a Copy and save to your Google Drive. \r\n\r\nIf you have questions on either of these documents, ask your Profile Coach via email."
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39032,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-03-07T06:00:00Z",
+      "dueDate": "2019-03-16T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-03-16T04:59:59Z",
+      "title": "12: Node Express Handlebars",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39035,
+        "assignmentId": 39032,
+        "header": "12: Node Express Handlebars"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39031,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-03-14T05:00:00Z",
+      "dueDate": "2019-03-23T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-03-23T04:59:59Z",
+      "title": "13: Burger 2: The Sequel",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39034,
+        "assignmentId": 39031,
+        "header": "13: Burger 2: The Sequel"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39034,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-03-21T05:00:00Z",
+      "dueDate": "2019-04-03T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-04-03T04:59:59Z",
+      "title": "Project 2",
+      "required": true,
+      "requiredForGraduation": true,
+      "assignmentHeader": {
+        "id": 39037,
+        "assignmentId": 39034,
+        "header": "Project 2"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39033,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-03-28T05:00:00Z",
+      "dueDate": "2019-04-08T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-04-08T04:59:59Z",
+      "title": "Updated Portfolio Page #2",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39036,
+        "assignmentId": 39033,
+        "header": "Updated Portfolio Page #2"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39037,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2019-04-03T05:00:00Z",
+      "dueDate": "2019-04-11T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-04-11T04:59:59Z",
+      "title": "Milestone 6: Prepare for a Successful Interview",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39040,
+        "assignmentId": 39037,
+        "header": "By the end of this milestone, you will have:\r\n\r\n1) Registered for a Behavioral Interview workshop\r\n\r\n2) An understanding of how to successfully prepare for an interview\r\n\r\n3) Prepared questions and answers for common interview questions\r\n\r\n4) Reviewed materials needed for the Prepare for a Successful Behavioral Interview Session"
+      },
+      "assignmentContent": {
+        "id": 34390,
+        "assignmentId": 39037,
+        "content": "Remember to sign up for a Behavioral Interview Workshop if you haven’t attended one yet! This workshop will help you become Employer Competitive by preparing you for all of those tough questions from employers. Learn how to prepare for non-technical interviews by anticipating questions, and  practicing the stories that demonstrate your skills and your unique talent and experiences. \r\n\r\nWe strongly recommend that you attend at least one Behavioral Interview Workshop between Milestone 2 and graduation, but you are welcome to attend as many as you want! To sign up, go to our Career Events page. (https://careerservicesonlineevents.splashthat.com/)\r\n\r\nDuring the Prepare for a Successful Behavioral Interview Session, you will be assigned a group of peers to interview.  Each of you will interview each other using some of the questions found in the Step by Step Guide. You’ll provide each other feedback using the Criteria for A Strong Interview.  \r\n\r\nIn preparation for the Session, dress professionally, as if you are attending a real interview, and complete the following:\r\n\r\n1) Read the Preparing for a Successful Interview Criteria: https://bit.ly/2HnE24F\r\n\r\n2) Review the Step by Step Guide to Preparing for a Successful Interview to understand what steps to prepare for and complete when taking part in a behavioral interview: https://bit.ly/2KaQFBA\r\n\r\n3) Review the Frequently Asked Questions on Preparing for a Successful Interview to find more answers to your common questions: https://bit.ly/2F9s4K0\r\n\r\n4) Read the Preparing for a Successful Interview Resources document to find links to videos as well as a list of common interview questions: https://bit.ly/2JqVJkd\r\n\r\nDuring the Prepare for a Successful Behavioral Interview Session, you will be assigned a group of peers to interview. Each of you will interview each other using some of the questions found in the Step by Step Guide. Youâ\u0080\u0099ll provide each other feedback using the Criteria for A Strong Interview.  \r\n\r\nIn preparation for the Session, dress professionally, as if you are attending a real interview.\r\n\r\nIf you have questions on any of these documents, ask your Career Director via email."
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39036,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-04-04T05:00:00Z",
+      "dueDate": "2019-04-13T04:59:59Z",
+      "bufferDays": 2,
+      "effectiveDueDate": "2019-04-15T04:59:59Z",
+      "title": "14: All the News That's Fit to Scrape",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39039,
+        "assignmentId": 39036,
+        "header": "14: All the News That's Fit to Scrape"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39042,
+      "courseId": 730,
+      "contextId": 2,
+      "assignmentDate": "2019-04-03T05:00:00Z",
+      "dueDate": "2019-04-18T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-04-18T04:59:59Z",
+      "title": "Milestone 7: Employer Ready",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39045,
+        "assignmentId": 39042,
+        "header": "By the end of this milestone you will be Employer Ready."
+      },
+      "assignmentContent": {
+        "id": 34395,
+        "assignmentId": 39042,
+        "content": "CLICK THE FOLLOWING LINK FOR MILESTONE RESOURCES http://bit.ly/2opTNQE\r\n\r\nMilestone 7: Employer Ready \r\n\r\nThis final milestone has two rounds of review. Please review the steps below to see how to submit your milestones for each round in BCS. \r\n\r\nRound 1\r\n\r\nSubmit your revised links for your Brand Statement, Resume, LinkedIn, Github, and Online Portfolio (from Milestones 2, 4, and 5). To do this, click SUBMIT in the upper right corner, add the URL for the link you wish to submit, and select that link’s title from the dropdown. Select ADD URL to add it to the submission. Do this for each of the links you are submitting. Once finished, please click SUBMIT MILESTONE.\r\n\r\nYou will receive feedback from your PC within two weeks of submitting this Milestone. Please use your PC’s feedback to make updates to your milestones before submitting for Round 2.  \r\n\r\nRound 2 \r\n\r\nOnce you have made revisions, please update your milestone’s links and re-submit them for your PC’s last round of feedback (following the same steps as above to submit). You can expect to receive feedback from your PC within two weeks of submitting."
+      },
+      "assignmentHours": null,
+      "context": {
+        "id": 2,
+        "contextCode": "career",
+        "name": "Career"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "career",
+        "name": "Career"
+      }
+    },
+    {
+      "id": 39035,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-04-11T05:00:00Z",
+      "dueDate": "2019-04-20T04:59:59Z",
+      "bufferDays": 2,
+      "effectiveDueDate": "2019-04-22T04:59:59Z",
+      "title": "15: Clicky Game",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39038,
+        "assignmentId": 39035,
+        "header": "15: Clicky Game"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39014,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-04-18T05:00:00Z",
+      "dueDate": "2019-04-27T04:59:59Z",
+      "bufferDays": 2,
+      "effectiveDueDate": "2019-04-29T04:59:59Z",
+      "title": "16: Google Books React Search",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39017,
+        "assignmentId": 39014,
+        "header": "16: Google Books React Search"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39017,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-04-25T05:00:00Z",
+      "dueDate": "2019-05-04T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-05-04T04:59:59Z",
+      "title": "17: Regionalized HW",
+      "required": false,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39020,
+        "assignmentId": 39017,
+        "header": "17: Regionalized HW"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    },
+    {
+      "id": 39016,
+      "courseId": 730,
+      "contextId": 1,
+      "assignmentDate": "2019-04-25T05:00:00Z",
+      "dueDate": "2019-05-22T04:59:59Z",
+      "bufferDays": 0,
+      "effectiveDueDate": "2019-05-22T04:59:59Z",
+      "title": "Project 3",
+      "required": true,
+      "requiredForGraduation": false,
+      "assignmentHeader": {
+        "id": 39019,
+        "assignmentId": 39016,
+        "header": "Project 3"
+      },
+      "assignmentContent": null,
+      "assignmentHours": null,
+      "context": {
+        "id": 1,
+        "contextCode": "academic",
+        "name": "Academic"
+      },
+      "year": 0,
+      "month": 0,
+      "eventType": {
+        "code": "academic",
+        "name": "Academic"
+      }
+    }
+  ]
+}
