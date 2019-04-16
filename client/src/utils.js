@@ -1,4 +1,41 @@
-const gradeToValue = {
+export const gradeToValue = grade => {
+  switch (grade) {
+    case "A+":
+      return 105;
+    case "A":
+      return 100;
+    case "A-":
+      return 95;
+    case "B+":
+      return 90;
+    case "B":
+      return 85;
+    case "B-":
+      return 80;
+    case "C+":
+      return 75;
+    case "C":
+      return 70;
+    case "C-":
+      return 65;
+    case "D+":
+      return 60;
+    case "D":
+      return 55;
+    case "D-":
+      return 50;
+    case "F+":
+      return 45;
+    case "F":
+      return 40;
+    case "F-":
+      return 35;
+    default:
+      return 0;
+  }
+};
+
+export const gradeToValueArr = {
   "A+": 105,
   A: 100,
   "A-": 95,
@@ -14,12 +51,13 @@ const gradeToValue = {
   "F+": 45,
   F: 40,
   "F-": 35,
-  I: 0
+  I: 0,
+  Incomplete: 0
 };
 
 export const averageMeanGrade = gradeArray => {
   let gradeValueSum = 0;
-  gradeArray.forEach(grade => (gradeValueSum += gradeToValue[grade]));
+  gradeArray.forEach(grade => (gradeValueSum += gradeToValue(grade)));
 
   const mean = Math.round(gradeValueSum / gradeArray.length);
   let nearestWholeNumberByFive = Math.round(mean / 5) * 5;
@@ -28,8 +66,8 @@ export const averageMeanGrade = gradeArray => {
     nearestWholeNumberByFive = 35;
   }
 
-  let finalAverageGrade = Object.keys(gradeToValue).find(
-    grade => gradeToValue[grade] === nearestWholeNumberByFive
+  let finalAverageGrade = Object.keys(gradeToValueArr).find(
+    grade => gradeToValue(grade) === nearestWholeNumberByFive
   );
   if (finalAverageGrade === undefined) {
     finalAverageGrade = "-";

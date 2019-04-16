@@ -932,7 +932,7 @@
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Dara Anya",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -944,7 +944,7 @@
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Diane Sabra",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -956,7 +956,7 @@
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Emmanuel Wada",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -980,7 +980,7 @@
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Jonathan Mooney",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -998,19 +998,19 @@
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Mark Gardner",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Pedro Oliveira de Magalhaes",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Peter Winston",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "assignmentTitle": "14: All the News That's Fit to Scrape",
     "studentName": "Shashank Ranganathan",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -4352,7 +4352,7 @@
   {
     "assignmentTitle": "Milestone 7: Employer Ready",
     "studentName": "Dara Anya",
-    "submitted": false,
+    "submitted": true,
     "grade": null
   },
   {
@@ -5223,7 +5223,7 @@
     "assignmentTitle": "Updated Portfolio Page #2",
     "studentName": "Aaron Gladstone",
     "submitted": true,
-    "grade": null
+    "grade": "F"
   },
   {
     "assignmentTitle": "Updated Portfolio Page #2",
@@ -5253,7 +5253,7 @@
     "assignmentTitle": "Updated Portfolio Page #2",
     "studentName": "Dara Anya",
     "submitted": true,
-    "grade": null
+    "grade": "A+"
   },
   {
     "assignmentTitle": "Updated Portfolio Page #2",
@@ -5265,7 +5265,7 @@
     "assignmentTitle": "Updated Portfolio Page #2",
     "studentName": "Diane Sabra",
     "submitted": true,
-    "grade": null
+    "grade": "A"
   },
   {
     "assignmentTitle": "Updated Portfolio Page #2",
@@ -5277,13 +5277,13 @@
     "assignmentTitle": "Updated Portfolio Page #2",
     "studentName": "Emmanuel Wada",
     "submitted": true,
-    "grade": null
+    "grade": "C+"
   },
   {
     "assignmentTitle": "Updated Portfolio Page #2",
     "studentName": "Indra Nallappan",
     "submitted": true,
-    "grade": null
+    "grade": "C+"
   },
   {
     "assignmentTitle": "Updated Portfolio Page #2",
@@ -5301,7 +5301,7 @@
     "assignmentTitle": "Updated Portfolio Page #2",
     "studentName": "Jonathan Mooney",
     "submitted": true,
-    "grade": null
+    "grade": "B+"
   },
   {
     "assignmentTitle": "Updated Portfolio Page #2",

@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === "production") {
 // Define API routes here
 
 app.get("/api/sessions", (req, res) => {
-  const data = require("./client/src/testData/sessions.json");
+  const data = require("./client/src/testData/sessions.json.js");
   res.json(data);
 });
 
